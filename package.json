@@ -5,7 +5,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/Thinkful-Ed/starter-name-generator"
+    "url": "https://github.com/Thinkful-Ed/starter-name-generator-render"
   },
   "scripts": {
     "build": "npm -prefix client run build",
