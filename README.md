@@ -18,7 +18,7 @@ The table below describes the folders in this starter repository:
 
 | Folder/file path | Description                                                      |
 | ---------------- | ---------------------------------------------------------------- |
-| `./backend`      | The backend project, which runs on `localhost:5000` by default.  |
+| `./backend`      | The backend project, which runs on `localhost:5001` by default.  |
 | `./client`       | The frontend project, which runs on `localhost:3000` by default. |
 
 ### GET /generate
